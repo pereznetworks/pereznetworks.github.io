@@ -1,6 +1,6 @@
 # Dap Dev, a web app forge
 So this is my GitHub.io, check out the website
-- Coming Soon ...
+- https://dap-dev.herokuapp.com/
 
 ## Web Apps and Sites
 
