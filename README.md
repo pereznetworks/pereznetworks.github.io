@@ -2,6 +2,15 @@
 So this is my GitHub.io, check out the website
 - https://dap-dev.herokuapp.com/
 
+## Ongoing Projects
+
+  - Releasing a github.io version of my portfolio site
+
+  - Adding more live apps and functional demos to my live
+  portfolio site
+
+  - build React-Native versions of my reactjs and other web apps
+
 ## Web Apps and Sites
 
 ### My Random Quotes
