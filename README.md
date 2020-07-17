@@ -23,7 +23,7 @@ So this is my GitHub.io, check out the website
 ### My Live Photo Gallery
 
   - Site
-    - commng soon ..
+    - coming soon ..
 
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project9
@@ -31,7 +31,7 @@ So this is my GitHub.io, check out the website
 ### My Weather App
 
   - Site
-    - comming soon ..
+    - coming soon ..
 
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project12
