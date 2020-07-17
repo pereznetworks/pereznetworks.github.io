@@ -1,4 +1,4 @@
-# Dap Dev, a web app forge
+#A Web App Forge
 So this is my GitHub.io, check out the website
 - https://dap-dev.herokuapp.com/
 
