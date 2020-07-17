@@ -11,9 +11,9 @@ So this is my GitHub.io, check out the website
 
   - build React-Native versions of my reactjs and other web apps
 
-## What's New 
-    - A React Native Test Drive
-      - https://github.com/pereznetworks/AReactNativeTestDrive
+## What's New
+  - A React Native Test Drive
+    - https://github.com/pereznetworks/AReactNativeTestDrive
 
 ## Web Apps and Sites
 
