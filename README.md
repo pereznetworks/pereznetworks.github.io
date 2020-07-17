@@ -2,7 +2,7 @@
 So this is my GitHub.io, check out the website
 - https://dap-dev.herokuapp.com/
 
-## Ongoing Projects
+## Stuff that's in the works...
 
   - Releasing a github.io version of my portfolio site
 
