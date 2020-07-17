@@ -54,6 +54,8 @@ So this is my GitHub.io, check out the website
   - GitHub Page
     - https://github.com/pereznetworks/Project2
 
+      - Yes, this is the url. I need to change the site url to match
+
 ### A plugin version of the modular pagination and content Filter
 
   - Site
