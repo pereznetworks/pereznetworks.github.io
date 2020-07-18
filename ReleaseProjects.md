@@ -1,7 +1,6 @@
 # Release Projects
 
-- So these are full Web Site or Web Apps
-
+  - So these are full Web Site or Web Apps
 
 ## Random Quotes
 - https://dap-dev.herokuapp.com/projects/0
