@@ -28,9 +28,6 @@ So this is my GitHub.io, check out the website
 ## What's New
   - [A React Native Test Drive](https://github.com/pereznetworks/AReactNativeTestDrive)
 
-## Project List
-  - [A list of projects](projectlist.md)
-
 ## Demo Projects
   - [Demo Projects](demoprojects.md)
 
@@ -43,4 +40,7 @@ So this is my GitHub.io, check out the website
 ## Release Projects
   - [Release Projects](ReleaseProjects.md)
 
+## Project List
+  - [A list of projects](projectlist.md)
+  
 #### [Back to Top](#a-web-app-forge)
