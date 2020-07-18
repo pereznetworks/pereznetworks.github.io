@@ -41,6 +41,6 @@ So this is my GitHub.io, check out the website
   - [Beta Projects](betaprojects.md)
 
 ## Release Projects
-  - [Release Projects](releaseprojects.md)
+  - [Release Projects](ReleaseProjects.md)
 
 #### [Back to Top](#a-web-app-forge)
