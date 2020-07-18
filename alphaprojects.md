@@ -14,10 +14,6 @@
   - https://github.com/pereznetworks/TechDegree-Project2
 
 
-## A Utility that checks Online Store prices
-  - https://github.com/pereznetworks/TD-Project6
-
-
 ## A Course Rating API built with ExpressJS
   - https://github.com/pereznetworks/TD-Project11
 
