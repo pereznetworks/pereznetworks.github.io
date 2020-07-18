@@ -26,7 +26,7 @@
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project7
 
-## Beta and Alpha Projects
+## Demo Projects
 
 ### A modular pagination and content filter
 
@@ -37,14 +37,6 @@
     - https://github.com/pereznetworks/Project2
 
       - Yes, this is the correct GitHub url. I need to change the Site url to match
-
-### A plugin version of the modular pagination and content Filter
-
-  - Site
-    - Coming Soon ..
-
-  - GitHub Page
-    - https://github.com/pereznetworks/TechDegree-Project2
 
 ### An interactive form
 
@@ -61,6 +53,16 @@
 
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project5
+
+## Beta and Alpha Projects
+
+### A plugin version of the modular pagination and content Filter
+
+  - Site
+    - Coming Soon ..
+
+  - GitHub Page
+    - https://github.com/pereznetworks/TechDegree-Project2
 
 ### A utility that checks online store prices
 
