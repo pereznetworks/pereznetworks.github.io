@@ -8,6 +8,8 @@ So this is my GitHub.io, check out the website
 
   - Please be careful, this is a ***LIVE*** Web App Forge.
 
+    - There is stuff that works great, and stuff that might blow up, creating verbose logging and heightened states of anxiety .
+
   - There is lots of cool stuff:
     - Front-End HTML/CSS and Javascript
     - React, Pug, Gulp
@@ -42,5 +44,5 @@ So this is my GitHub.io, check out the website
 
 ## Project List
   - [A list of projects](projectlist.md)
-  
+
 #### [Back to Top](#a-web-app-forge)
