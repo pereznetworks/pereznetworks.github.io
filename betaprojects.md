@@ -11,7 +11,7 @@ These projects will eventually be released as both Web Apps and Native Mobile Ap
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project9
 
-# My Weather App
+## My Weather App
 
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project12
