@@ -18,8 +18,6 @@
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project4
 
-
-
 ### My Portfolio Site
 
   - Site
@@ -28,7 +26,7 @@
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project7
 
-## Demonstrating functionality
+## Beta and Alpha Projects
 
 ### A modular pagination and content filter
 
@@ -97,4 +95,4 @@
     - https://github.com/pereznetworks/TD-Project11
 
 
-#### [Back to Home](README.md) - [Back to Top](#list-of-projects)
+#### [Backs Home](README.md) - [Back to Top](#list-of-projects)
