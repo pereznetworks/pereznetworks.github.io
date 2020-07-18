@@ -12,9 +12,9 @@ So this is my GitHub.io, check out the website
 
   - There is lots of cool stuff:
     - Front-End HTML/CSS and Javascript
-    - React Native, ReactJS, Pug, Gulp
+    - React Native, ReactJS, Bootstrap, Pug
     - DB Stuff: like Sequelize, MondoDb, PostgreSQL
-    - Express Server-side CLI and Express API.
+    - Express Server-side CLI, Express API, Gulp, SASS and more
 
 ## Stuff that's in the works...
 
