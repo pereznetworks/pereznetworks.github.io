@@ -9,11 +9,16 @@
 ## An interactive form
   - https://dap-dev.herokuapp.com/projects/2
 
+
 ## A complete employee directory site
   - https://pereznetworks.github.io/TD-Project5/
+
 
 ## A bookstore checkout app
   - https://github.com/pereznetworks/TD-Project10
 
+
+## A Utility that checks Online Store prices
+  - https://github.com/pereznetworks/TD-Project6
 
 #### [Back Home](README.md)
