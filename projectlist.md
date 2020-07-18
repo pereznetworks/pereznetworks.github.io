@@ -54,6 +54,14 @@
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project5
 
+### A utility that checks online store prices
+
+  - Site
+    - Coming Soon ..
+
+  - GitHub Page
+    - https://github.com/pereznetworks/TD-Project6
+
 ## Beta and Alpha Projects
 
 ### A plugin version of the modular pagination and content Filter
@@ -63,14 +71,6 @@
 
   - GitHub Page
     - https://github.com/pereznetworks/TechDegree-Project2
-
-### A utility that checks online store prices
-
-  - Site
-    - Coming Soon ..
-
-  - GitHub Page
-    - https://github.com/pereznetworks/TD-Project6
 
 ### Front-end for a sample site built using Gulp
 

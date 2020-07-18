@@ -30,19 +30,25 @@ So this is my GitHub.io, check out the website
 ## What's New
   - [A React Native Test Drive](https://github.com/pereznetworks/AReactNativeTestDrive)
 
-## Demo Projects
-  - [Demo Projects](demoprojects.md)
-
-## Alpha Projects
-  - [Alpha Projects](alphaprojects.md)
-
-## Beta Projects
-  - [Beta Projects](betaprojects.md)
 
 ## Release Projects
   - [Release Projects](ReleaseProjects.md)
 
+
+## Demo Projects
+  - [Demo Projects](demoprojects.md)
+
+
+## Alpha Projects
+  - [Alpha Projects](alphaprojects.md)
+
+
+## Beta Projects
+  - [Beta Projects](betaprojects.md)
+
+
 ## Project List
   - [A list of projects](projectlist.md)
+
 
 #### [Back to Top](#a-web-app-forge)
