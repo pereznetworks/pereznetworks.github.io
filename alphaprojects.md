@@ -18,5 +18,4 @@
 ## A Course Rating API built with ExpressJS
   - https://github.com/pereznetworks/TD-Project11
 
-
 #### [Back Home](README.md)

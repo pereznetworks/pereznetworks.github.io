@@ -3,22 +3,22 @@
   - So these are projects that demonstrate certain web app functionality.
 
 ## A modular pagination and content filter
-  - https://dap-dev.herokuapp.com/projects/1
+  - https://github.com/pereznetworks/TechDegree-Project2
 
 
 ## An interactive form
-  - https://dap-dev.herokuapp.com/projects/2
+  - https://github.com/pereznetworks/TD-Project3
 
 
 ## A complete employee directory site
-  - https://pereznetworks.github.io/TD-Project5/
-
-
-## A bookstore checkout app
-  - https://github.com/pereznetworks/TD-Project10
+  - https://github.com/pereznetworks/TD-Project5
 
 
 ## A Utility that checks Online Store prices
   - https://github.com/pereznetworks/TD-Project6
+
+
+## A Book Store CheckOut App
+  - https://github.com/pereznetworks/TD-Project10
 
 #### [Back Home](README.md)
