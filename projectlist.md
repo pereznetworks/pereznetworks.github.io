@@ -34,7 +34,7 @@
     - https://pereznetworks.github.io/TechDegree-Project2/
 
   - GitHub Page
-    - https://github.com/pereznetworks/Project2
+    - https://github.com/pereznetworks/TechDegree-Project2
 
       - Yes, this is the correct GitHub url. I need to change the Site url to match
 
@@ -70,7 +70,7 @@
     - Coming Soon ..
 
   - GitHub Page
-    - https://github.com/pereznetworks/TechDegree-Project2
+    - https://github.com/pereznetworks/Pagination-and-Content-Filter-Plugin
 
 ### Front-end for a sample site built using Gulp
 

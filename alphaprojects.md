@@ -12,7 +12,7 @@
 
 
 ## A Plug-in, for Pagination and Content Filtering
-  - https://github.com/pereznetworks/TechDegree-Project2
+  - https://github.com/pereznetworks/Pagination-and-Content-Filter-Plugin
 
 
 ## A Course Rating API built with ExpressJS
