@@ -31,15 +31,15 @@
 ### A modular pagination and content filter
 
   - Site
-    - https://pereznetworks.github.io/A-jQuery-Demo-A-Pagination-and-Content-Filter/
+    - https://pereznetworks.github.io/A-jQuery-Demo-A-Pagination-and-Content-Filter
 
-  - GitHub Page
-    - https://github.com/pereznetworks/A-jQuery-Demo-A-Pagination-and-Content-Filters
+  - GitHub
+    - https://github.com/pereznetworks/A-jQuery-Demo-A-Pagination-and-Content-Filter
 
 ### An interactive form
 
   - Site
-    - https://github.com/pereznetworks/A-jQuery-demo-Building-An-Interactive-Form
+    - https://pereznetworks.github.io/A-jQuery-demo-Building-An-Interactive-Form
 
   - GitHub Page
     - https://github.com/pereznetworks/A-jQuery-demo-Building-An-Interactive-Form
