@@ -34,9 +34,7 @@
     - https://pereznetworks.github.io/A-jQuery-Demo-A-Pagination-and-Content-Filter/
 
   - GitHub Page
-    - https://github.com/pereznetworks/A-jQuery-Demo-A-Pagination-and-Content-Filter
-
-      - Yes, this is the correct GitHub url. I need to change the Site url to match
+    - https://github.com/pereznetworks/A-jQuery-Demo-A-Pagination-and-Content-Filters
 
 ### An interactive form
 
