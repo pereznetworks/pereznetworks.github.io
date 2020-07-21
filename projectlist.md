@@ -8,7 +8,7 @@
     - https://pereznetworks.github.io/TechDegree-Project1/
 
   - GitHub Page
-    - https://github.com/pereznetworks/TechDegree-Project1
+    - https://github.com/pereznetworks/My-Random-Quotes-Web-App
 
 ### My TIC-TAC-TOE Game
 
