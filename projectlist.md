@@ -39,10 +39,10 @@
 ### An interactive form
 
   - Site
-    - https://github.com/pereznetworks/TD-Project3
+    - https://github.com/pereznetworks/A-jQuery-demo-Building-An-Interactive-Form
 
   - GitHub Page
-    - https://github.com/pereznetworks/TD-Project3
+    - https://github.com/pereznetworks/A-jQuery-demo-Building-An-Interactive-Form
 
 ### A complete employee directory site
 
