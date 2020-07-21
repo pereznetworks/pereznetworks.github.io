@@ -5,7 +5,7 @@
 ### My Random Quotes
 
   - Site
-    - https://pereznetworks.github.io/TechDegree-Project1/
+    - https://pereznetworks.github.io/My-Random-Quotes-Web-App
 
   - GitHub Page
     - https://github.com/pereznetworks/My-Random-Quotes-Web-App
