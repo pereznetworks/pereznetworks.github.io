@@ -31,10 +31,10 @@
 ### A modular pagination and content filter
 
   - Site
-    - https://pereznetworks.github.io/TechDegree-Project2/
+    - https://pereznetworks.github.io/A-jQuery-Demo-A-Pagination-and-Content-Filter/
 
   - GitHub Page
-    - https://github.com/pereznetworks/TechDegree-Project2
+    - https://github.com/pereznetworks/A-jQuery-Demo-A-Pagination-and-Content-Filter
 
       - Yes, this is the correct GitHub url. I need to change the Site url to match
 
