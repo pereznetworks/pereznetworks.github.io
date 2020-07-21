@@ -13,10 +13,10 @@
 ### My TIC-TAC-TOE Game
 
   - Site
-    - https://pereznetworks.github.io/TD-Project4/
+    - https://pereznetworks.github.io/My-Tic-Tac-Toe-Game
 
   - GitHub Page
-    - https://github.com/pereznetworks/TD-Project4
+    - https://github.com/pereznetworks/My-Tic-Tac-Toe-Game
 
 ### My Portfolio Site
 
