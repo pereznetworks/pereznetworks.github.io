@@ -9,7 +9,7 @@
   - https://github.com/pereznetworks/A-jQuery-demo-Building-An-Interactive-Form
 
 ## A complete employee directory site
-  - https://github.com/pereznetworks/A-Fetch-API-and-Modular-Demo-A-Complete-Employee-Directory-Site
+  - https://github.com/pereznetworks/An-Advanced-Demo-A-Complete-Employee-Directory-Site
 
 
 ## A Utility that checks Online Store prices
