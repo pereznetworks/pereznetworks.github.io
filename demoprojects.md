@@ -11,11 +11,6 @@
 ## A complete employee directory site
   - https://github.com/pereznetworks/An-Advanced-Demo-A-Complete-Employee-Directory-Site
 
-
-## A Utility that checks Online Store prices
-  - https://github.com/pereznetworks/TD-Project6
-
-
 ## A Book Store CheckOut App
   - https://github.com/pereznetworks/TD-Project10
 
