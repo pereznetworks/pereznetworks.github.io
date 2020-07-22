@@ -47,10 +47,10 @@
 ### A complete employee directory site
 
   - Site
-    - https://pereznetworks.github.io/TD-Project5/
+    - https://pereznetworks.github.io/A-Fetch-API-and-Modular-Demo-A-Complete-Employee-Directory-Site
 
   - GitHub Page
-    - https://github.com/pereznetworks/TD-Project5
+    - https://github.com/pereznetworks/A-Fetch-API-and-Modular-Demo-A-Complete-Employee-Directory-Site
 
 ### A utility that checks online store prices
 
