@@ -52,14 +52,6 @@
   - GitHub Page
     - https://github.com/pereznetworks/An-Advanced-Demo-A-Complete-Employee-Directory-Site
 
-### A utility that checks online store prices
-
-  - Site
-    - Coming Soon ..
-
-  - GitHub Page
-    - https://github.com/pereznetworks/TD-Project6
-
 ## Beta and Alpha Projects
 
 ### A plugin version of the modular pagination and content Filter
