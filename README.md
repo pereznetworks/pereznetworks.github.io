@@ -1,7 +1,7 @@
 # A Web App Forge
 By Daniel Perez
 
-Welcome to GitHub.io portal, here you can look at all my projects that have setup a public repository.
+Welcome to my GitHub.io portal, here you can look at all my projects that have a public repository.
 
 To check my release projects I am hosting live, here is my portfolio site
 - https://dap-dev.herokuapp.com/
