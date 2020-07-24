@@ -14,7 +14,7 @@
 ## A Book Store CheckOut App
   - https://github.com/pereznetworks/TD-Project10
 
-### A Tutorial - Building A Portfolio Site
+## A Tutorial - Building A Portfolio Site
   - https://github.com/pereznetworks/A-Tutorial-Building-A-Portfolio-Site
 
 #### [Back Home](README.md)
