@@ -10,7 +10,7 @@ To check my release projects I am hosting live, here is my portfolio site
 
   - Please be careful, this is a ***LIVE*** Web App Forge.
 
-    - There is stuff that works great, and stuff that might blow up, creating verbose logging and heightened states of anxiety.
+    - There is stuff that works great, and stuff that might not work great, creating verbose logging and heightened states of anxiety.
 
   - There is lots of cool stuff:
     - Front-End HTML/CSS and Javascript
