@@ -23,9 +23,6 @@
   - Site
     - https://dap-dev.herokuapp.com/
 
-  - GitHub Page
-    - https://github.com/pereznetworks/TD-Project7
-
 ## Demo Projects
 
 ### A modular pagination and content filter
@@ -51,6 +48,14 @@
 
   - GitHub Page
     - https://github.com/pereznetworks/An-Advanced-Demo-A-Complete-Employee-Directory-Site
+
+### A Tutorial - Building A Portfolio Site 
+
+  - Site
+    - Coming Soon ..
+
+  - GitHub Page
+    - https://github.com/pereznetworks/A-Tutorial-Building-A-Portfolio-Site
 
 ## Beta and Alpha Projects
 
