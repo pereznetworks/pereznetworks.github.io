@@ -51,9 +51,6 @@
 
 ## A Tutorial - Building A Portfolio Site
 
-  - Site
-    - Coming Soon ..
-
   - GitHub Page
     - https://github.com/pereznetworks/A-Tutorial-Building-A-Portfolio-Site
 
@@ -61,32 +58,20 @@
 
 ## A plugin version of the modular pagination and content Filter
 
-  - Site
-    - Coming Soon ..
-
   - GitHub Page
     - https://github.com/pereznetworks/Pagination-and-Content-Filter-Plugin
 
 ## Front-end for a sample site built using Gulp
-
-  - Site
-    - Coming Soon ..
 
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project8
 
 ## A bookstore checkout app
 
-  - Site
-    - Coming Soon ..
-
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project10
 
 ## A Course Rating API built with Express.js
-
-  - Site
-    - Coming Soon ..
 
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project11
