@@ -49,7 +49,7 @@
   - GitHub Page
     - https://github.com/pereznetworks/An-Advanced-Demo-A-Complete-Employee-Directory-Site
 
-### A Tutorial - Building A Portfolio Site 
+### A Tutorial - Building A Portfolio Site
 
   - Site
     - Coming Soon ..
@@ -91,5 +91,14 @@
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project11
 
+## My Live Photo Gallery
+
+  - GitHub Page
+    - https://github.com/pereznetworks/TD-Project9
+
+## My Weather App
+
+  - GitHub Page
+    - https://github.com/pereznetworks/TD-Project12
 
 #### [Back Home](README.md) - [Back to Top](#list-of-projects)
