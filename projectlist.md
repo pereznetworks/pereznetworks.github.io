@@ -1,8 +1,8 @@
 # List of Projects
 
-## Release Projects
+# Release Projects
 
-### My Random Quotes
+## My Random Quotes
 
   - Site
     - https://pereznetworks.github.io/My-Random-Quotes-Web-App
@@ -10,7 +10,7 @@
   - GitHub Page
     - https://github.com/pereznetworks/My-Random-Quotes-Web-App
 
-### My TIC-TAC-TOE Game
+## My TIC-TAC-TOE Game
 
   - Site
     - https://pereznetworks.github.io/My-Tic-Tac-Toe-Game
@@ -18,14 +18,14 @@
   - GitHub Page
     - https://github.com/pereznetworks/My-Tic-Tac-Toe-Game
 
-### My Portfolio Site
+## My Portfolio Site
 
   - Site
     - https://dap-dev.herokuapp.com/
 
-## Demo Projects
+# Demo Projects
 
-### A modular pagination and content filter
+## A modular pagination and content filter
 
   - Site
     - https://pereznetworks.github.io/A-jQuery-Demo-A-Pagination-and-Content-Filter
@@ -33,7 +33,7 @@
   - GitHub
     - https://github.com/pereznetworks/A-jQuery-Demo-A-Pagination-and-Content-Filter
 
-### An interactive form
+## An interactive form
 
   - Site
     - https://pereznetworks.github.io/A-jQuery-demo-Building-An-Interactive-Form
@@ -41,7 +41,7 @@
   - GitHub Page
     - https://github.com/pereznetworks/A-jQuery-demo-Building-An-Interactive-Form
 
-### A complete employee directory site
+## A complete employee directory site
 
   - Site
     - https://pereznetworks.github.io/An-Advanced-Demo-A-Complete-Employee-Directory-Site
@@ -49,7 +49,7 @@
   - GitHub Page
     - https://github.com/pereznetworks/An-Advanced-Demo-A-Complete-Employee-Directory-Site
 
-### A Tutorial - Building A Portfolio Site
+## A Tutorial - Building A Portfolio Site
 
   - Site
     - Coming Soon ..
@@ -57,9 +57,9 @@
   - GitHub Page
     - https://github.com/pereznetworks/A-Tutorial-Building-A-Portfolio-Site
 
-## Beta and Alpha Projects
+# Beta and Alpha Projects
 
-### A plugin version of the modular pagination and content Filter
+## A plugin version of the modular pagination and content Filter
 
   - Site
     - Coming Soon ..
@@ -67,7 +67,7 @@
   - GitHub Page
     - https://github.com/pereznetworks/Pagination-and-Content-Filter-Plugin
 
-### Front-end for a sample site built using Gulp
+## Front-end for a sample site built using Gulp
 
   - Site
     - Coming Soon ..
@@ -75,7 +75,7 @@
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project8
 
-### A bookstore checkout app
+## A bookstore checkout app
 
   - Site
     - Coming Soon ..
@@ -83,7 +83,7 @@
   - GitHub Page
     - https://github.com/pereznetworks/TD-Project10
 
-### A Course Rating API built with Express.js
+## A Course Rating API built with Express.js
 
   - Site
     - Coming Soon ..
