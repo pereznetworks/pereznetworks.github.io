@@ -8,7 +8,7 @@
   - these projects work in development mode, but key parts are still in the planning stages
 
 ## A sample site, front-end, built using Gulp
-  - https://github.com/pereznetworks/TD-Project8
+  - https://github.com/pereznetworks/An-Advanced-Demo-Using-Gulp-to-Build-a-Front-End-Web-Site
 
 
 ## A Plug-in, for Pagination and Content Filtering

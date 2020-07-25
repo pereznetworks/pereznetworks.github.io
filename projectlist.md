@@ -64,7 +64,7 @@
 ## Front-end for a sample site built using Gulp
 
   - GitHub Page
-    - https://github.com/pereznetworks/TD-Project8
+    - https://github.com/pereznetworks/An-Advanced-Demo-Using-Gulp-to-Build-a-Front-End-Web-Site
 
 ## A bookstore checkout app
 
