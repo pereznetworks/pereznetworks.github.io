@@ -8,14 +8,14 @@
   - these projects work in development mode, but key parts are still in the planning stages
 
 ## A sample site, front-end, built using Gulp
-  - https://github.com/pereznetworks/An-Advanced-Demo-Using-Gulp-to-Build-a-Front-End-Web-Site
+  - [https://github.com/pereznetworks/An-Advanced-Demo-Using-Gulp-to-Build-a-Front-End-Web-Site](https://github.com/pereznetworks/An-Advanced-Demo-Using-Gulp-to-Build-a-Front-End-Web-Site)
 
 
 ## A Plug-in, for Pagination and Content Filtering
-  - https://github.com/pereznetworks/Pagination-and-Content-Filter-Plugin
+  - [https://github.com/pereznetworks/Pagination-and-Content-Filter-Plugin](https://github.com/pereznetworks/Pagination-and-Content-Filter-Plugin)
 
 
 ## A Course Rating API built with ExpressJS
-  - https://github.com/pereznetworks/TD-Project11
+  - [https://github.com/pereznetworks/TD-Project11](https://github.com/pereznetworks/TD-Project11)
 
 #### [Back Home](README.md)
