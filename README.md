@@ -20,8 +20,6 @@ To check my release projects I am hosting live, here is my portfolio site
 
 ## Stuff that's in the works...
 
-  - Releasing a github.io version of my portfolio site
-
   - Adding more live apps and functional demos to my live
   portfolio site
 
