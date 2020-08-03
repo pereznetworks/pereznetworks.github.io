@@ -6,17 +6,20 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <image className="App-Block" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          A Web App Forge
+        </p>
+        <p className="App-subtitle">
+          by Daniel Perez
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/pereznetworks/pereznetworks.github.io"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          ... Coming Soon, for now checkout the github repo ...
         </a>
       </header>
     </div>
