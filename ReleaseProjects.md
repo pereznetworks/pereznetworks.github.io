@@ -3,11 +3,11 @@
   - So these are full Web Site or Web Apps
 
 ## My Random Quotes
-- https://dap-dev.herokuapp.com/projects/0
+- [https://pereznetworks.github.io/My-Random-Quotes-Web-App](https://pereznetworks.github.io/My-Random-Quotes-Web-App)
 
 
 ## My Tic Tac Toe Game
-- https://dap-dev.herokuapp.com/projects/3
+- [https://pereznetworks.github.io/My-Tic-Tac-Toe-Game3](https://pereznetworks.github.io/My-Tic-Tac-Toe-Game)
 
 
 ## My Portfolio Site
