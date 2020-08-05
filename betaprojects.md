@@ -14,6 +14,6 @@ These projects will eventually be released as both Web Apps and Native Mobile Ap
 ## My Weather App
 
   - GitHub Page
-    - [https://github.com/pereznetworks/TD-Project12](https://github.com/pereznetworks/TD-Project12)
+    - [https://github.com/pereznetworks/WeatherX-A-Universal-Multi-platform-App](https://github.com/pereznetworks/WeatherX-A-Universal-Multi-platform-App)
 
 #### [Back Home](README.md)
