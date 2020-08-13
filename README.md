@@ -1,4 +1,4 @@
-# A Web App Forge
+# An App Forge
 By Daniel Perez
 
 Welcome to my GitHub.io portal, here you can look at all my projects that have a public repository.
