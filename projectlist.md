@@ -84,6 +84,6 @@
 ## My Weather App
 
   - GitHub Page
-    - [https://github.com/pereznetworks/TD-Project12](https://github.com/pereznetworks/TD-Project12)
+    - [https://github.com/pereznetworks/WeatherX-A-Universal-Multi-platform-App](https://github.com/pereznetworks/WeatherX-A-Universal-Multi-platform-App)
 
 #### [Back Home](README.md) - [Back to Top](#list-of-projects)

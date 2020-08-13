@@ -7,7 +7,7 @@
 
 
 ## My Tic Tac Toe Game
-- [https://pereznetworks.github.io/My-Tic-Tac-Toe-Game3](https://pereznetworks.github.io/My-Tic-Tac-Toe-Game)
+- [https://pereznetworks.github.io/My-Tic-Tac-Toe-Game](https://pereznetworks.github.io/My-Tic-Tac-Toe-Game)
 
 
 ## My Portfolio Site
