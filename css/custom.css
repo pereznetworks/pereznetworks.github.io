@@ -1,5 +1,8 @@
 /* css for Captsone TD-Project12 web page  */
 
+body {
+  background-color: #17a2b8!important;
+}
 .navbar .navbar-brand {
   color: rgba(255, 255, 255, 0.85);
   font-size: 1rem;
@@ -55,6 +58,9 @@
   /* filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#808080', endColorstr='#EDEDED');*/
 }
 
+.href-link {
+  color: #f8f9fa;
+}
 /* .jumbotron {
   background-image: url('../img/jumbo-bg.jpg');
   background-size: cover;
