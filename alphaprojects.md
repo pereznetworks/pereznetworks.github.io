@@ -15,7 +15,7 @@
   - [https://github.com/pereznetworks/Pagination-and-Content-Filter-Plugin](https://github.com/pereznetworks/Pagination-and-Content-Filter-Plugin)
 
 
-## A Course Rating API built with ExpressJS
+## A Course Rating API built with ExpressJS and MongoDb
   - [https://github.com/pereznetworks/A-Course-Rating-API](https://github.com/pereznetworks/A-Course-Rating-API)
 
 #### [Back Home](README.md)
