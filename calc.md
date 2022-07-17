@@ -10,7 +10,7 @@
  </tr>
  <tr>
     <td> basic math </td>
-    <td rowspan="5" > <image src="./images/calcScreenshot.jpg"> </td>
+    <td rowspan="6" > <image src="./images/calcScreenshot.jpg"> </td>
  </tr>
  <tr>
     <td> standard display </td>
@@ -23,6 +23,9 @@
  </tr>
  <tr>
     <td> <a class="link" href="https://pereznetworks.github.io/Another-Basic-Calculator-App/">try #Calc 2.0a</a></td>
+ </tr>
+ <tr>
+    <td> <a class="link" href="https://github.com/pereznetworks/Another-Basic-Calculator-App/">GitHub Repo for #Calc 2.0a</a></td>
  </tr>
 </table>
 
