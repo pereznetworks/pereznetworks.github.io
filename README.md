@@ -23,15 +23,14 @@ To check my release projects I am hosting live, here is my portfolio site
 
 ## Stuff that's in the works...
 
-  - Adding more live apps and functional demos to my live
-  portfolio site
+  - Moving Project Pages, html versions, for all Repos to this Project page
 
-  - building React-Native versions of my reactjs and other front-end projects
+  - Updating Project Site (this site) and the underlying Bootstrap code 
 
-  - working on my Create An Express Server App
+  - Porting code for my web apps and demo sites to use a build environment
 
 ## What's New
-  - [A React Native Test Drive](https://github.com/pereznetworks/AReactNativeTestDrive)
+  - [#Calc - Another Basic Calculator](calc.md)
 
 
 ## Release Projects
