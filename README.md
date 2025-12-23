@@ -15,7 +15,7 @@ To check my release projects I am hosting live, here is my portfolio site
       - creating verbose logging
       - and heightened states of anxiety.
 
-  - [.NET Maui (Multi-platform Application UI )](.NETMaui.md)
+  - [.NET Maui (Multi-platform Application UI ) projects](.NETMaui.md)
     - MyNotes demo of .NET Maui sample code 
     - MyTunes demo of .NET Maui Community Toolkit sample code 
 
