@@ -29,7 +29,11 @@ To check my release projects I am hosting live, here is my portfolio site
 
   - Porting code for my web apps and demo sites to use a build environment
 
-## What's New
+## .NET MAUI demo apps
+
+  - [.NET MAUI demo apps](.NETMaui.md)
+
+## Another Basic Calculator app
   - [#Calc - Another Basic Calculator](calc.md)
 
 

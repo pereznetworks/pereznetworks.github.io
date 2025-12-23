@@ -6,14 +6,10 @@ These projects will eventually be released as both Web Apps and Native Mobile Ap
 
  - Still working out the Native Mobile App UI and other server-side issues.
 
-## My Live Photo Gallery
+## My Random Quotes
+  - [https://pereznetworks.github.io/My-Random-Quotes-Web-App](https://pereznetworks.github.io/My-Random-Quotes-Web-App)
 
-  - GitHub Page
-    - [https://github.com/pereznetworks/A-Gallery-App-using-React-and-Server-side-routes](https://github.com/pereznetworks/A-Gallery-App-using-React-and-Server-side-routes-)
-
-## My Weather App
-
-  - GitHub Page
-    - [https://github.com/pereznetworks/WeatherX-A-Universal-Multi-platform-App](https://github.com/pereznetworks/WeatherX-A-Universal-Multi-platform-App)
+## My Tic Tac Toe Game
+  - [https://pereznetworks.github.io/tictactoe.html](https://pereznetworks.github.io/tictactoe.html)
 
 #### [Back Home](README.md)
