@@ -15,19 +15,15 @@ To check my release projects I am hosting live, here is my portfolio site
       - creating verbose logging
       - and heightened states of anxiety.
 
-  - There is lots of cool stuff:
+  - .NET Maui (Multi-platform Application UI )
+    - MyNotes demo of .NET Maui sample code 
+    - MyTunes demo of .NET Maui Community Toolkit sample code 
+
+  - There is other cool stuff:
     - Front-End HTML/CSS and Javascript
     - React Native, ReactJS, Bootstrap, Pug
     - DB Stuff: like Sequelize, MondoDb, PostgreSQL
     - Express Server-side CLI, Express API, Gulp, SASS and more
-
-## Stuff that's in the works...
-
-  - Moving Project Pages, html versions, for all Repos to this Project page
-
-  - Updating Project Site (this site) and the underlying Bootstrap code 
-
-  - Porting code for my web apps and demo sites to use a build environment
 
 ## .NET MAUI demo apps
 
