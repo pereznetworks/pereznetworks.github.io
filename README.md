@@ -16,7 +16,7 @@ To check my release projects I am hosting live, here is my portfolio site
       - and heightened states of anxiety.
 
   - [.NET Maui (Multi-platform Application UI ) projects](.NETMaui.md)
-    - Full Implementation .NET Maui and .net Maui Community Toolkit sample code 
+    - Full Implementation .NET Maui and .NET Maui Community Toolkit sample code 
     - Suported Platforms; Windows 11, Apple and Andriod devices.
 
   - There is other cool stuff:
